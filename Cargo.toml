@@ -1,0 +1,11 @@
+[package]
+name = "drawing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+png= "=0.5.2"
+rand = "0.8.5"
+raster = "0.2.0"
+bitflags = "=2.9.0"
+
